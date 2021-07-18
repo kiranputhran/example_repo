@@ -1,3 +1,4 @@
+/*Examples in the file written in C*/
 #include <stdio.h>
 
 int main() {
